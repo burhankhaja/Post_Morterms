@@ -1,5 +1,5 @@
 // assuming file is inside the foundry initialized directory,
-// run this command := forge test --contracts test/totalSupply.t.sol -vvv
+// run this command := forge test --contracts test/USDC.t.sol -vvv
 import "forge-std/Test.sol";
 
 interface IERC20 {
