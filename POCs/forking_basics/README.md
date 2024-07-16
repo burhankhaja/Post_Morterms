@@ -1,1 +1,2 @@
-stay tuned!
+- **[USDC-file](https://github.com/burhankhaja/Post_Morterms/blob/main/POCs/forking_basics/USDC.t.sol) show you how to create the fork of USDC coin on differnt networks using `vm.createSelectFork(rpc_string,blockNumber_uint)`and query its functions like totalSupply() etc**
+- It also shows you how to give USDC balance using `deal(token_address,to_address,value_uint)` to arbitary address in order to create flexible testing environment
