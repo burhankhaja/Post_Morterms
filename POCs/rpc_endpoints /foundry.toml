@@ -1,5 +1,5 @@
 [rpc_endpoints]
-mainnet = "https://rpc.mevblocker.io"
+mainnet = "https://rpc.mevblocker.io" # https://rpc.ankr.com/eth
 blast = "https://rpc.ankr.com/blast"
 optimism = "https://optimism.llamarpc.com"
 fantom = "https://rpc.ankr.com/fantom"
